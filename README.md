@@ -80,6 +80,16 @@ Created a **multi-role platform** enabling **students, HR, and admins** to manag
 
 ---
 
+## Status
+
+<div align="center">
+
+![LeetCode Stats](https://leet-card.vercel.app/api/FlKkZBsffE?theme=radical&font=Inter)
+
+</div>
+
+---
+
 ## GitHub Analytics  
 
 <div align="center">
@@ -118,3 +128,4 @@ Created a **multi-role platform** enabling **students, HR, and admins** to manag
 From [RobertMithran](https://github.com/RobertMithran)
 
 </div>
+```
