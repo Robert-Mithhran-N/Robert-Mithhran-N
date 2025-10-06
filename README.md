@@ -1,11 +1,14 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rounded&height=300&color=112240&text=ROBERT%20MITHRAN&textBg=false&animation=twinkling&fontColor=3b82f6&fontAlign=50&rotate=0" alt="Header" />
+<!-- Smaller Banner -->
+<img src="https://capsule-render.vercel.app/api?type=rounded&height=200&color=112240&text=ROBERT%20MITHRAN&textBg=false&animation=twinkling&fontColor=3b82f6&fontAlign=50&rotate=0&fontSize=40" alt="Header" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=800&color=3B82F6&center=true&vCenter=true&width=650&lines=Creative+and+Curious+Developer;Turning+Ideas+into+Interactive+Experiences;Learning+and+Building+Every+Day;DSA+Problem+Solver" alt="Typing SVG" />
+<!-- Reduced Typing SVG Font Size -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2500&pause=800&color=3B82F6&center=true&vCenter=true&width=600&lines=Creative+and+Curious+Developer;Turning+Ideas+into+Interactive+Experiences;Learning+and+Building+Every+Day;DSA+Problem+Solver" alt="Typing SVG" />
 
 </div>
+
 
 ---
 
