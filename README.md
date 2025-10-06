@@ -1,4 +1,3 @@
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=rounded&height=200&color=112240&text=ROBERT%20MITHRAN%20N&textBg=false&animation=twinkling&fontColor=3b82f6&fontAlign=50&rotate=0" alt="Header" />
@@ -12,7 +11,7 @@
 Hey there! I'm **Robert Mithran N**, currently pursuing **B.Tech in Computer Science and Business Systems** at  
 **KIT – Kalaignarkarunanidhi Institute of Technology, Coimbatore (2023–2027)**.
 
-I’m a **web developer and DSA problem solver** passionate about creating **clean, responsive, and user-friendly** web applications and solving **Advance Data structure** problems.  
+I’m a **web developer and DSA problem solver** passionate about creating **clean, responsive, and user-friendly** web applications and solving **Advanced Data Structure** problems.  
 My mission is to blend **design, functionality, and performance** to build seamless digital experiences.
 
 ---
@@ -51,7 +50,6 @@ My mission is to blend **design, functionality, and performance** to build seaml
 
 ---
 
-
 ## Featured Projects
 
 ### [TEAM46 Motorcycle Gear](https://github.com/RobertMithran/BikeGear/blob/main/index.html)
@@ -59,15 +57,14 @@ My mission is to blend **design, functionality, and performance** to build seaml
 Developed a **rider-centric e-commerce platform** for premium motorcycle gear.  
 Secure authentication, rich UI, and mobile-first design.
 
-### Smart Internship Networking Platform
+### Smart Internship Networking Platform  
+**Tech Stack:** HTML, CSS, JavaScript  
+Created a **multi-role platform** enabling **students, HR, and admins** to manage internships efficiently with secure logins and intuitive UI.
 
-### School Advertisement Website
+### School Advertisement Website  
 **Tech Stack:** HTML, CSS, JavaScript  
 Developed a static website for a school advertisement using only frontend technologies.  
 Focused on responsive design, clean layout, and engaging visuals to showcase school features.
-  
-**Tech Stack:** HTML, CSS, JavaScript  
-Created a **multi-role platform** enabling **students, HR, and admins** to manage internships efficiently with secure logins and intuitive UI.
 
 ---
 
@@ -80,11 +77,17 @@ Created a **multi-role platform** enabling **students, HR, and admins** to manag
 
 ---
 
-## Status
+## Status  
 
 <div align="center">
 
+### 🧠 LeetCode Stats
 ![LeetCode Stats](https://leet-card.vercel.app/api/FlKkZBsffE?theme=radical&font=Inter)
+
+---
+
+### 🔥 LeetCode Activity Heatmap
+![LeetCode Heatmap](https://leetcard.jacoblin.cool/FlKkZBsffE?theme=dark&font=Inter&ext=heatmap&border=0&radius=8&animation=true&hide_border=true&bg=0F172A&stroke=3b82f6)
 
 </div>
 
@@ -122,10 +125,9 @@ Created a **multi-role platform** enabling **students, HR, and admins** to manag
 
 <div align="center">
 
-### Fun Fact  
+### 🎨 Fun Fact  
 *"Code is like art — each line tells a story of logic and creativity."*  
 
 From [RobertMithran](https://github.com/RobertMithran)
 
 </div>
-```
