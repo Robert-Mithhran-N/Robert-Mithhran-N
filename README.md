@@ -11,12 +11,12 @@
 Hey there! I'm **Robert Mithran N**, currently pursuing **B.Tech in Computer Science and Business Systems** at  
 **KIT – Kalaignarkarunanidhi Institute of Technology, Coimbatore (2023–2027)**.
 
-I’m a **web developer and DSA problem solver** passionate about creating **clean, responsive, and user-friendly** web applications and solving **Advanced Data Structure** problems.  
+I’m a **web developer and DSA problem solver** passionate about creating **clean, responsive, and user-friendly** web applications and solving **Advanced Data Structures** problems.  
 My mission is to blend **design, functionality, and performance** to build seamless digital experiences.
 
 ---
 
-## Technical Skills  
+## Technical Skills
 
 ### Programming Languages  
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -52,19 +52,14 @@ My mission is to blend **design, functionality, and performance** to build seaml
 
 ## Featured Projects
 
-### [TEAM46 Motorcycle Gear](https://github.com/RobertMithran/BikeGear/blob/main/index.html)
-**Tech Stack:** HTML, CSS, JavaScript, React, Firebase  
-Developed a **rider-centric e-commerce platform** for premium motorcycle gear.  
-Secure authentication, rich UI, and mobile-first design.
+### [TEAM46 Motorcycle Gear](https://github.com/RobertMithran/BikeGear/blob/main/index.html)  
+**Tech Stack:** HTML, CSS, JavaScript, React, Firebase — a rider-centric e-commerce platform with secure auth and a mobile-first design.
 
 ### Smart Internship Networking Platform  
-**Tech Stack:** HTML, CSS, JavaScript  
-Created a **multi-role platform** enabling **students, HR, and admins** to manage internships efficiently with secure logins and intuitive UI.
+**Tech Stack:** HTML, CSS, JavaScript — a multi-role internship platform for students, HR and admins.
 
 ### School Advertisement Website  
-**Tech Stack:** HTML, CSS, JavaScript  
-Developed a static website for a school advertisement using only frontend technologies.  
-Focused on responsive design, clean layout, and engaging visuals to showcase school features.
+**Tech Stack:** HTML, CSS, JavaScript — a responsive static site built to showcase school features.
 
 ---
 
@@ -73,27 +68,53 @@ Focused on responsive design, clean layout, and engaging visuals to showcase sch
 - **CodeChef:** Max Rating – 1428 (Div 3)  
 - **LeetCode:** Solved 200+ problems  
 - Participated in **inter-college hackathons and coding events**  
-- Passionate about continuous growth and creative problem solving  
+- Passionate about continuous growth and creative problem solving
 
 ---
 
-## Status  
+## Status
 
 <div align="center">
 
-### LeetCode Activity Heatmap  
-![LeetCode Heatmap](https://leetcard.jacoblin.cool/FlKkZBsffE?theme=dark&font=Inter&ext=heatmap&border=0&radius=8&animation=true&hide_border=true&bg=0F172A&stroke=3b82f6)
+<!-- 2-column layout: Heatmap (left) + CodeChef (right) -->
+<table width="90%">
+  <tr>
+    <td width="68%" valign="top" align="center">
+      <!-- Large standalone LeetCode heatmap (change username if needed) -->
+      <!-- Replace `FlKkZBsffE` with your LeetCode ID if it changes -->
+      [![LeetCode Activity Heatmap](https://leetcard.jacoblin.cool/FlKkZBsffE?ext=heatmap&theme=radical&font=Inter&width=900&height=160&bg=0F172A&stroke=D946EF&radius=6&hide_border=true)](https://leetcode.com/u/FlKkZBsffE/)
+      <br/>
+      <sub>Click the heatmap to open the LeetCode profile</sub>
+    </td>
 
----
+    <td width="32%" valign="top" align="center">
+      <!-- CodeChef clickable badges -->
+      <!-- Replace `robert_mithran` with your CodeChef handle if different -->
+      <a href="https://www.codechef.com/users/robert_mithran" target="_blank" rel="noopener noreferrer">
+        <img src="https://img.shields.io/badge/CodeChef-Profile-ff6d00?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef Profile" />
+      </a>
 
-### CodeChef Profile  
-![CodeChef Stats](https://codechef-readme-stats.vercel.app/api/user?username=robert_mithran&theme=dark)
+      <br/><br/>
+
+      <!-- Static rating badge (update value if rating changes) -->
+      <img src="https://img.shields.io/badge/CodeChef%20Rating-1428-orange?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef Rating" />
+
+      <br/><br/>
+
+      <!-- small link to a CodeChef stats generator (optional) -->
+      <sub>
+        If you want a live CodeChef stats card similar to other "readme-stats" projects,
+        you can deploy a CodeChef-stats generator and replace the badge above with its image URL.
+      </sub>
+    </td>
+  </tr>
+</table>
 
 </div>
 
 ---
 
-## GitHub Analytics  
+## GitHub Analytics
 
 <div align="center">
 
@@ -104,15 +125,16 @@ Focused on responsive design, clean layout, and engaging visuals to showcase sch
 
 ---
 
-## Currently Exploring  
-- Frontend frameworks (React Advanced Concepts)  
-- Firebase Authentication and Hosting  
-- Backend API Integrations  
-- Optimized DSA Solutions  
+## Currently Exploring
+
+- Frontend frameworks (React advanced concepts)  
+- Firebase Authentication & Hosting  
+- Backend API integrations  
+- Optimized DSA solutions
 
 ---
 
-## Connect With Me  
+## Connect With Me
 
 <p align="center">
   <a href="https://github.com/RobertMithran"><img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=white"/></a>
