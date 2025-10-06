@@ -81,8 +81,13 @@ Focused on responsive design, clean layout, and engaging visuals to showcase sch
 
 <div align="center">
 
-### LeetCode Activity Heatmap
+### LeetCode Activity Heatmap  
 ![LeetCode Heatmap](https://leetcard.jacoblin.cool/FlKkZBsffE?theme=dark&font=Inter&ext=heatmap&border=0&radius=8&animation=true&hide_border=true&bg=0F172A&stroke=3b82f6)
+
+---
+
+### CodeChef Profile  
+![CodeChef Stats](https://codechef-readme-stats.vercel.app/api/user?username=robert_mithran&theme=dark)
 
 </div>
 
@@ -120,7 +125,7 @@ Focused on responsive design, clean layout, and engaging visuals to showcase sch
 
 <div align="center">
 
-### 🎨 Fun Fact  
+### Fun Fact  
 *"Code is like art — each line tells a story of logic and creativity."*  
 
 From [RobertMithran](https://github.com/RobertMithran)
