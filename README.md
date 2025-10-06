@@ -19,41 +19,47 @@ My mission is to blend **design, functionality, and performance** to build seaml
 
 ---
 
-## Technical Skills
+## Technical Skills  
 
-### Languages  
-<p align="center">
-  <img src="https://img.shields.io/badge/C++-1E3A8A?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-0284C7?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-2563EB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-9333EA?style=for-the-badge&logo=java&logoColor=white"/>
-</p>  
+### Programming Languages  
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### Web Development  
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-F97316?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-2563EB?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-FACC15?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/React-22D3EE?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Firebase-F59E0B?style=for-the-badge&logo=firebase&logoColor=black"/>
-</p>
+### Frontend Development  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### Tools & Databases  
-<p align="center">
-  <img src="https://img.shields.io/badge/Git-F43F5E?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-0284C7?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS_Code-3B82F6?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-</p>
+### Backend & Database  
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![REST API](https://img.shields.io/badge/REST-02569B?style=for-the-badge&logo=rest&logoColor=white)
+
+### DSA & Problem Solving  
+![Data Structures](https://img.shields.io/badge/Data%20Structures-000000?style=for-the-badge&logo=buffer&logoColor=white)
+![Problem Solving](https://img.shields.io/badge/Problem%20Solving-1E40AF?style=for-the-badge&logo=leetcode&logoColor=white)
+
+### Tools & Platforms  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
+
 
 ## Featured Projects
 
 ### [TEAM46 Motorcycle Gear](https://github.com/RobertMithran/BikeGear/blob/main/index.html)
 **Tech Stack:** HTML, CSS, JavaScript, React, Firebase  
 Developed a **rider-centric e-commerce platform** for premium motorcycle gear.  
-🔐 Secure authentication, 🎨 rich UI, and 📱 mobile-first design.
+Secure authentication, rich UI, and mobile-first design.
 
 ### Smart Internship Networking Platform
 
