@@ -1,6 +1,7 @@
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0f172a&height=180&section=header&text=Robert%20Mithran%20N&fontSize=55&fontAlignY=40&desc=Full-Stack%20Web%20Developer%20%7C%20Problem%20Solver%20%7C%20Tech%20Explorer&descAlignY=65&descAlign=50&fontColor=38bdf8&animation=twinkling&stroke=3b82f6&strokeWidth=2" alt="Header" />
+<img src="https://capsule-render.vercel.app/api?type=rounded&height=300&color=112240&text=ROBERT%20MITHRAN&textBg=false&animation=twinkling&fontColor=3b82f6&fontAlign=50&rotate=0" alt="Header" />
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=800&color=3B82F6&center=true&vCenter=true&width=650&lines=Creative+and+Curious+Developer;Turning+Ideas+into+Interactive+Experiences;Learning+and+Building+Every+Day" alt="Typing SVG" />
 
