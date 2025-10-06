@@ -81,12 +81,7 @@ Focused on responsive design, clean layout, and engaging visuals to showcase sch
 
 <div align="center">
 
-### 🧠 LeetCode Stats
-![LeetCode Stats](https://leet-card.vercel.app/api/FlKkZBsffE?theme=radical&font=Inter)
-
----
-
-### 🔥 LeetCode Activity Heatmap
+### LeetCode Activity Heatmap
 ![LeetCode Heatmap](https://leetcard.jacoblin.cool/FlKkZBsffE?theme=dark&font=Inter&ext=heatmap&border=0&radius=8&animation=true&hide_border=true&bg=0F172A&stroke=3b82f6)
 
 </div>
