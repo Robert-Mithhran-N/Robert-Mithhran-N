@@ -12,7 +12,7 @@
 Hey there! I'm **Robert Mithran N**, currently pursuing **B.Tech in Computer Science and Business Systems** at  
 **KIT – Kalaignarkarunanidhi Institute of Technology, Coimbatore (2023–2027)**.
 
-I’m a **web developer** passionate about creating **clean, responsive, and user-friendly** web applications.  
+I’m a **web developer and DSA problem solver** passionate about creating **clean, responsive, and user-friendly** web applications and solving **Advance Data structure** problems.  
 My mission is to blend **design, functionality, and performance** to build seamless digital experiences.
 
 ---
