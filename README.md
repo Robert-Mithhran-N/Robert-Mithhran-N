@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rounded&height=200&color=112240&text=ROBERT%20MITHRAN&textBg=false&animation=twinkling&fontColor=3b82f6&fontAlign=50&rotate=0" alt="Header" />
+<img src="https://capsule-render.vercel.app/api?type=rounded&height=300&color=112240&text=ROBERT%20MITHRAN&textBg=false&animation=twinkling&fontColor=3b82f6&fontAlign=50&rotate=0" alt="Header" />
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=800&color=3B82F6&center=true&vCenter=true&width=650&lines=Creative+and+Curious+Developer;Turning+Ideas+into+Interactive+Experiences;Learning+and+Building+Every+Day;DSA+Problem+Solver" alt="Typing SVG" />
 
@@ -80,6 +80,22 @@ Created a **multi-role platform** enabling **students, HR, and admins** to manag
 </div>
 
 ---
+
+
+---
+
+## Advanced GitHub Analytics  
+
+<div align="center">
+
+<img src="https://github-contributor-stats.vercel.app/api?username=RobertMithran&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="GitHub Contribution Stats" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=RobertMithran&theme=react-dark&hide_border=true&area=true" alt="GitHub Activity Graph" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=RobertMithran&theme=radical&hide_border=true" alt="GitHub Streak Stats" />
+
+</div>
+
 
 ## Currently Exploring  
 - Frontend frameworks (React Advanced Concepts)  
