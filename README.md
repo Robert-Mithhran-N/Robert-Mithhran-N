@@ -76,32 +76,40 @@ My mission is to blend **design, functionality, and performance** to build seaml
 
 <div align="center">
 
-<!-- 2-column layout: Heatmap (left) + CodeChef (right) -->
 <table width="90%">
   <tr>
     <td width="68%" valign="top" align="center">
-      <!-- Large standalone LeetCode heatmap (change username if needed) -->
-      <!-- Replace `FlKkZBsffE` with your LeetCode ID if it changes -->
-      [![LeetCode Activity Heatmap](https://leetcard.jacoblin.cool/FlKkZBsffE?ext=heatmap&theme=radical&font=Inter&width=900&height=160&bg=0F172A&stroke=D946EF&radius=6&hide_border=true)](https://leetcode.com/u/FlKkZBsffE/)
+      <!-- LeetCode heatmap (replace FlKkZBsffE with your LeetCode ID if needed) -->
+      <a href="https://leetcode.com/u/FlKkZBsffE/" target="_blank" rel="noopener noreferrer">
+        <img
+          src="https://leetcard.jacoblin.cool/FlKkZBsffE?ext=heatmap&theme=radical&font=Inter&width=900&height=160&bg=0F172A&stroke=D946EF&radius=6&hide_border=true"
+          alt="LeetCode Activity Heatmap"
+          style="max-width:100%; height:auto;"
+        />
+      </a>
       <br/>
       <sub>Click the heatmap to open the LeetCode profile</sub>
     </td>
 
     <td width="32%" valign="top" align="center">
-      <!-- CodeChef clickable badges -->
-      <!-- Replace `robert_mithran` with your CodeChef handle if different -->
+      <!-- CodeChef clickable badge -->
       <a href="https://www.codechef.com/users/robert_mithran" target="_blank" rel="noopener noreferrer">
-        <img src="https://img.shields.io/badge/CodeChef-Profile-ff6d00?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef Profile" />
+        <img
+          src="https://img.shields.io/badge/CodeChef-Profile-ff6d00?style=for-the-badge&logo=codechef&logoColor=white"
+          alt="CodeChef Profile"
+        />
       </a>
 
       <br/><br/>
 
-      <!-- Static rating badge (update value if rating changes) -->
-      <img src="https://img.shields.io/badge/CodeChef%20Rating-1428-orange?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef Rating" />
+      <!-- Static rating badge -->
+      <img
+        src="https://img.shields.io/badge/CodeChef%20Rating-1428-orange?style=for-the-badge&logo=codechef&logoColor=white"
+        alt="CodeChef Rating"
+      />
 
       <br/><br/>
 
-      <!-- small link to a CodeChef stats generator (optional) -->
       <sub>
         If you want a live CodeChef stats card similar to other "readme-stats" projects,
         you can deploy a CodeChef-stats generator and replace the badge above with its image URL.
@@ -111,6 +119,7 @@ My mission is to blend **design, functionality, and performance** to build seaml
 </table>
 
 </div>
+
 
 ---
 
