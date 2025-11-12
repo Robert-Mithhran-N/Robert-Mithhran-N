@@ -79,10 +79,10 @@ My mission is to blend **design, functionality, and performance** to build seaml
 <table width="90%">
   <tr>
     <td width="68%" valign="top" align="center">
-      <!-- LeetCode heatmap (replace FlKkZBsffE with your LeetCode ID if needed) -->
-      <a href="https://leetcode.com/u/FlKkZBsffE/" target="_blank" rel="noopener noreferrer">
+      <!-- ✅ Corrected LeetCode heatmap (your username: robertmithran) -->
+      <a href="https://leetcode.com/u/robertmithran/" target="_blank" rel="noopener noreferrer">
         <img
-          src="https://leetcard.jacoblin.cool/FlKkZBsffE?ext=heatmap&theme=radical&font=Inter&width=900&height=160&bg=0F172A&stroke=D946EF&radius=6&hide_border=true"
+          src="https://leetcard.jacoblin.cool/robertmithran?ext=heatmap&theme=radical&font=Inter&width=900&height=160&bg=0F172A&stroke=D946EF&radius=6&hide_border=true"
           alt="LeetCode Activity Heatmap"
           style="max-width:100%; height:auto;"
         />
