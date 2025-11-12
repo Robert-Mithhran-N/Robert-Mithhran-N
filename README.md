@@ -79,7 +79,7 @@ My mission is to blend **design, functionality, and performance** to build seaml
 <table width="90%">
   <tr>
     <td width="68%" valign="top" align="center">
-      <!-- ✅ Corrected LeetCode heatmap (your username: robertmithran) -->
+      <!-- ✅ Correct LeetCode heatmap (your username: robertmithran) -->
       <a href="https://leetcode.com/u/robertmithran/" target="_blank" rel="noopener noreferrer">
         <img
           src="https://leetcard.jacoblin.cool/robertmithran?ext=heatmap&theme=radical&font=Inter&width=900&height=160&bg=0F172A&stroke=D946EF&radius=6&hide_border=true"
@@ -92,17 +92,17 @@ My mission is to blend **design, functionality, and performance** to build seaml
     </td>
 
     <td width="32%" valign="top" align="center">
-      <!-- CodeChef clickable badge -->
-      <a href="https://www.codechef.com/users/robert_mithran" target="_blank" rel="noopener noreferrer">
+      <!-- ✅ Updated CodeChef clickable badge -->
+      <a href="https://www.codechef.com/users/kit27csbs47" target="_blank" rel="noopener noreferrer">
         <img
-          src="https://img.shields.io/badge/CodeChef-Profile-ff6d00?style=for-the-badge&logo=codechef&logoColor=white"
+          src="https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white"
           alt="CodeChef Profile"
         />
       </a>
 
       <br/><br/>
 
-      <!-- Static rating badge -->
+      <!-- ✅ Static rating badge (update value if rating changes) -->
       <img
         src="https://img.shields.io/badge/CodeChef%20Rating-1428-orange?style=for-the-badge&logo=codechef&logoColor=white"
         alt="CodeChef Rating"
@@ -111,8 +111,8 @@ My mission is to blend **design, functionality, and performance** to build seaml
       <br/><br/>
 
       <sub>
-        If you want a live CodeChef stats card similar to other "readme-stats" projects,
-        you can deploy a CodeChef-stats generator and replace the badge above with its image URL.
+        Want a live CodeChef stats card? You can deploy a CodeChef-stats generator
+        and replace the above badge with its live image URL.
       </sub>
     </td>
   </tr>
