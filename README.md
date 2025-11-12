@@ -76,47 +76,18 @@ My mission is to blend **design, functionality, and performance** to build seaml
 
 <div align="center">
 
-<table width="90%">
-  <tr>
-    <td width="68%" valign="top" align="center">
-      <!-- ✅ Correct LeetCode heatmap (your username: robertmithran) -->
-      <a href="https://leetcode.com/u/robertmithran/" target="_blank" rel="noopener noreferrer">
-        <img
-          src="https://leetcard.jacoblin.cool/robertmithran?ext=heatmap&theme=radical&font=Inter&width=900&height=160&bg=0F172A&stroke=D946EF&radius=6&hide_border=true"
-          alt="LeetCode Activity Heatmap"
-          style="max-width:100%; height:auto;"
-        />
-      </a>
-      <br/>
-      <sub>Click the heatmap to open the LeetCode profile</sub>
-    </td>
+<!-- ✅ LeetCode Activity Heatmap (your username: robertmithran) -->
+<a href="https://leetcode.com/u/robertmithran/" target="_blank" rel="noopener noreferrer">
+  <img
+    src="https://leetcard.jacoblin.cool/robertmithran?ext=heatmap&theme=radical&font=Inter&width=900&height=160&bg=0F172A&stroke=D946EF&radius=6&hide_border=true"
+    alt="LeetCode Activity Heatmap"
+    style="max-width:100%; height:auto;"
+  />
+</a>
 
-    <td width="32%" valign="top" align="center">
-      <!-- ✅ Updated CodeChef clickable badge -->
-      <a href="https://www.codechef.com/users/kit27csbs47" target="_blank" rel="noopener noreferrer">
-        <img
-          src="https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white"
-          alt="CodeChef Profile"
-        />
-      </a>
+<br/>
 
-      <br/><br/>
-
-      <!-- ✅ Static rating badge (update value if rating changes) -->
-      <img
-        src="https://img.shields.io/badge/CodeChef%20Rating-1428-orange?style=for-the-badge&logo=codechef&logoColor=white"
-        alt="CodeChef Rating"
-      />
-
-      <br/><br/>
-
-      <sub>
-        Want a live CodeChef stats card? You can deploy a CodeChef-stats generator
-        and replace the above badge with its live image URL.
-      </sub>
-    </td>
-  </tr>
-</table>
+<sub>Click the heatmap to open the LeetCode profile</sub>
 
 </div>
 
